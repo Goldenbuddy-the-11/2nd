@@ -41,6 +41,10 @@ h3 {
   padding: 50px 0 20px;
 }
 
+.mountain {
+ height: 400px;
+}
+
 .top-cloud {
   position: absolute;
   right: 300px;
